@@ -31,6 +31,11 @@ The example is the Rectangle definition and test.
 # Encapsulation
 Check 'Encapsulation and Inheritance'
 
+# Class relationshipts
+Inheritance
+Composition ("buy" other objects)
+Collaboration (example: java: collection and iterator)
+
 
 
 
